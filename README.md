@@ -6,7 +6,7 @@ Full Stack Laravel developer
 
 I have 4 years of strong experience in web development.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Pune
 * ✉️  You can contact me at [khatkegajanan@gmail.com](mailto:khatkegajanan@gmail.com)
 * 🚀  I'm currently working on [Laravel Package development](http://github.com/Gajanan1992/livewire-traits)
 * 🧠  I'm learning Livewire, Alpine Js
